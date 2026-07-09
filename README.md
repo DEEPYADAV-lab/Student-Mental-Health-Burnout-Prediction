@@ -125,28 +125,7 @@ The project includes:
 ---
  
 
-## ▶️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/DEEPYADAV-lab/Student-Mental-Health-Burnout-Prediction.git
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the notebook
-
-```bash
-jupyter notebook
-```
-
  
-
 ## 📌 Results
 
 | Model | Task | Performance |
