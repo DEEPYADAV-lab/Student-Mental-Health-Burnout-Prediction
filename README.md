@@ -1,6 +1,6 @@
-# 🎓 Student Mental Health & Burnout Prediction using Machine Learning
+#  Student Mental Health & Burnout Prediction using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 This project applies Machine Learning techniques to analyze student mental health data and predict burnout levels and mental health risk. The project includes data preprocessing, exploratory data analysis (EDA), visualization, regression, classification, and feature importance analysis using Python and Scikit-learn.
 
@@ -8,7 +8,7 @@ The objective is to identify students at risk of burnout and provide insights th
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -21,7 +21,7 @@ The objective is to identify students at risk of burnout and provide insights th
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - Student Mental Health & Burnout Dataset
 - Original dataset contains **1,000,000 student records**
@@ -53,7 +53,7 @@ The objective is to identify students at risk of burnout and provide insights th
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -65,7 +65,7 @@ The objective is to identify students at risk of burnout and provide insights th
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 ### 1. Linear Regression
 Predicts the student's burnout score.
@@ -95,7 +95,7 @@ Predicts student burnout risk using an ensemble learning approach.
 
 ---
 
-## 📊 Top Important Features
+##  Top Important Features
 
 According to the Random Forest model, the most influential features are:
 
@@ -110,7 +110,7 @@ According to the Random Forest model, the most influential features are:
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 The project includes:
 
@@ -126,7 +126,7 @@ The project includes:
  
 
  
-## 📌 Results
+##  Results
 
 | Model | Task | Performance |
 |------|------|------------|
@@ -136,7 +136,7 @@ The project includes:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Hyperparameter Tuning
 - SMOTE for Class Imbalance
@@ -148,7 +148,7 @@ The project includes:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Deep Yadav**
 
